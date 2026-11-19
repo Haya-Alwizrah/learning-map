@@ -1,2 +1,2 @@
-# HR_projects
-projects for maharah company
+# learning map
+projects for HR department in maharah company
